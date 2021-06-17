@@ -1,5 +1,5 @@
 # WeatherApp 🌡📈
-Gives weather report according to the location </br>
+Gives weather report according to the location. </br>
 Check Out -> https://tech0520.github.io/Weather_App/
 
 ## Functionalities🌡:
