@@ -1,6 +1,6 @@
 # WeatherApp 🌡📈
 Gives weather report according to the location </br>
-Check Out -> https://saumya-07.github.io/WeatherApp/
+Check Out -> https://tech0520.github.io/Weather_App/
 
 ## Functionalities🌡:
 Returns weather details such as temprature, type of weather, humidity, wind speed.</br>
